@@ -18,8 +18,8 @@ Antes de começar, certifique-se de ter o seguinte:
 - Ferramentas de gerenciamento de dependências, como `pip` ou `conda`.
 
 ## Como Utilizar Este Guia
-Ele está dividido em cinco passos principais, cada um detalhado especificamente. 
-1. Leia cada arquivo na ordem apresentada abauxi.
+Ele está dividido em cinco passos principais. 
+1. Acesse cada arquivo na ordem apresentada aqui.
 2. Certifique-se de seguir todos os passos de cada seção antes de avançar para a próxima.
 3. Teste regularmente cada etapa
 
@@ -42,7 +42,7 @@ Garanta que o chatbot funcione de maneira eficiente e confiável, monitorando lo
 ---
 
 
-Este projeto foi desenvolvido como um exemplo prático de como implementar um chatbot no WhatsApp utilizando o modelo LLaMA AI em um servidor local. Ele foi estruturado para ser modular e escalável, permitindo adaptações para diferentes contextos e empresas que busquem automação de atendimento e suporte interno. Se você encontrou este guia útil ou tem sugestões de melhorias, sinta-se à vontade para contribuir!  🚀
+Este guia foi desenvolvido como um exemplo prático de como implementar um chatbot no WhatsApp utilizando o modelo LLaMA AI em um servidor local. Ele foi estruturado para ser modular e escalável, permitindo adaptações para diferentes contextos e empresas que busquem automação de atendimento e suporte interno. Se você encontrou este guia útil ou tem sugestões de melhorias, sinta-se à vontade para contribuir!  🚀
 
 Contribuições: Caso tenha ideias ou melhorias para o projeto, abra um pull request ou envie sua sugestão por meio das issues no repositório.
 Agradeço a leitura e caso esteja pensando em realizar a implementação por esse guia, por favor entre em contado. :)
