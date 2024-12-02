@@ -28,7 +28,7 @@ Ele está dividido em cinco passos principais.
 Nesta seção, você encontrará tudo o que precisa saber para preparar o ambiente antes de começar, incluindo requisitos de hardware, software e configurações iniciais.
 
 ### [2. Configuração do Ambiente Local](./Configuração%20do%20Ambiente%20Local.md)
-Aprenda a configurar o ambiente local para executar o modelo LLaMA, instalar dependências e garantir que tudo esteja pronto para a integração.
+Aqui você configurará o ambiente local para executar o modelo LLaMA, instalar dependências e garantir que tudo esteja pronto para a integração.
 
 ### [3. Integração do LLaMA ao WhatsApp](./Integração%20do%20LLaMA%20ao%20WhatsApp.md)
 Integre o modelo LLaMA ao WhatsApp, configurando um servidor API para processar mensagens e gerar respostas automáticas.
