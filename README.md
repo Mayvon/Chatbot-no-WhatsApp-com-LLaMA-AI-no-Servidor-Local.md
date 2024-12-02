@@ -2,14 +2,6 @@
 
 Este guia detalha o processo completo para configurar um chatbot no WhatsApp utilizando a inteligência artificial LLaMA, da Meta, em um servidor local. Ele abrange desde os requisitos iniciais de hardware e software até a integração com APIs do WhatsApp, personalização do chatbot para necessidades específicas e estratégias de manutenção contínua. O objetivo é criar uma solução eficiente e escalável, com foco em automação e suporte interno tomando como exemplo, para efeito demonstrativo, uma empresa do setor varejo chamada **Novo Atacarejo**.
 
-## Como Utilizar Este Guia
-Ele está dividido em cinco passos principais, cada um detalhado especificamente. 
-1. Leia cada arquivo na ordem apresentada acima.
-2. Certifique-se de seguir todos os passos de cada seção antes de avançar para a próxima.
-3. Teste regularmente cada etapa
-
-### [1. Pré-requisitos](./Pré-requisitos.md)
-Nesta seção, você encontrará tudo o que precisa saber para preparar o ambiente antes de começar, incluindo requisitos de hardware, software e configurações iniciais.
 Antes de começar, certifique-se de ter o seguinte:
 
 #### **Hardware**
@@ -25,12 +17,15 @@ Antes de começar, certifique-se de ter o seguinte:
 - Node.js (para integrar com o WhatsApp).
 - Ferramentas de gerenciamento de dependências, como `pip` ou `conda`.
 
-#### **Outros Requisitos**
-- Conta do WhatsApp Business e acesso à API oficial do WhatsApp fornecida pelo **Meta** (ou uma alternativa como o Baileys para não-oficial).
-- Modelo LLaMA, baixado e configurado. Siga as instruções da Meta para acessar e usar o modelo.
-- Ambiente de desenvolvimento local ou SSH para acesso ao servidor.
+## Como Utilizar Este Guia
+Ele está dividido em cinco passos principais, cada um detalhado especificamente. 
+1. Leia cada arquivo na ordem apresentada abauxi.
+2. Certifique-se de seguir todos os passos de cada seção antes de avançar para a próxima.
+3. Teste regularmente cada etapa
 
----
+
+### [1. Pré-requisitos](./Pré-requisitos.md)
+Nesta seção, você encontrará tudo o que precisa saber para preparar o ambiente antes de começar, incluindo requisitos de hardware, software e configurações iniciais.
 
 ### [2. Configuração do Ambiente Local](./Configuração%20do%20Ambiente%20Local.md)
 Aprenda a configurar o ambiente local para executar o modelo LLaMA, instalar dependências e garantir que tudo esteja pronto para a integração.
@@ -45,5 +40,16 @@ Personalize o chatbot para atender às suas necessidades específicas, incluindo
 Garanta que o chatbot funcione de maneira eficiente e confiável, monitorando logs, atualizando o modelo e implementando melhorias contínuas.
 
 ---
+
+Este projeto foi desenvolvido como um exemplo prático de como implementar um chatbot no WhatsApp utilizando o modelo LLaMA AI em um servidor local. Ele foi estruturado para ser modular e escalável, permitindo adaptações para diferentes contextos e empresas.
+Embora o Novo Atacarejo esbora esteja sendo usado como exemplo fictício para demonstração, as técnicas e ferramentas apresentadas podem ser aplicadas em qualquer negócio que busque automação de atendimento e suporte interno.
+Se você encontrou este guia útil ou tem sugestões de melhorias, sinta-se à vontade para contribuir!  🚀
+
+Licença e Uso
+Este guia é disponibilizado sob licença aberta, permitindo seu uso e modificação para fins educacionais e comerciais. Consulte o arquivo LICENSE.md para mais informações.
+
+Contribuições: Caso tenha ideias ou melhorias para o projeto, abra um pull request ou envie sua sugestão por meio das issues no repositório.
+
+Agradeço a leitura e caso esteja pensando em realizar a implementação por esse guia, por favor entre em contado. :)
 
 
