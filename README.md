@@ -45,7 +45,7 @@ Garanta que o chatbot funcione de maneira eficiente e confiável, monitorando lo
 Este guia foi desenvolvido como um exemplo prático de como implementar um chatbot no WhatsApp utilizando o modelo LLaMA AI em um servidor local. Ele foi estruturado para ser modular e escalável, permitindo adaptações para diferentes contextos e empresas que busquem automação de atendimento e suporte interno. Se você encontrou este guia útil ou tem sugestões de melhorias, sinta-se à vontade para contribuir!  🚀
 
 Contribuições: Caso tenha ideias ou melhorias para o projeto, abra um pull request ou envie sua sugestão por meio das issues no repositório.
-Agradeço a leitura e caso esteja pensando em realizar a implementação por esse guia, por favor entre em contado. :)
+Agradeço a leitura e caso esteja pensando em realizar esta implementação, por favor entre em contado. :)
 
 Licença e Uso
 Este guia é disponibilizado sob licença aberta, permitindo seu uso e modificação para fins educacionais e comerciais. Consulte o arquivo LICENSE.md para mais informações.
