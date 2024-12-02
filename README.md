@@ -1,6 +1,6 @@
 # **Instalando um Chatbot no WhatsApp com LLaMA AI em um Servidor Local** (Novo Atacarejo)
 
-Este guia detalha o processo completo para configurar um chatbot no WhatsApp utilizando a inteligência artificial LLaMA, da Meta, em um servidor local. Ele abrange desde os requisitos iniciais de hardware e software até a integração com APIs do WhatsApp, personalização do chatbot para necessidades específicas e estratégias de manutenção contínua. O objetivo é criar uma solução eficiente e escalável, com foco em automação e suporte interno tomando como exemplo, para efeito demonstrativo, uma empresa do setor varejo chamada **Novo Atacarejo**.
+Este guia detalha o processo completo para configurar um chatbot no WhatsApp utilizando a inteligência artificial LLaMA, da Meta, em um servidor local. Ele abrange desde os requisitos iniciais de hardware e software até a integração com APIs do WhatsApp, personalização do chatbot para necessidades específicas e estratégias de manutenção contínua. O objetivo é criar uma solução eficiente e escalável, com foco em automação e suporte interno tomando como exemplo, para efeito demonstrativo, a empresa do setor varejo chamada **Novo Atacarejo**.
 
 Antes de começar, certifique-se de ter o seguinte:
 
@@ -42,12 +42,9 @@ Garanta que o chatbot funcione de maneira eficiente e confiável, monitorando lo
 ---
 
 
-Este projeto foi desenvolvido como um exemplo prático de como implementar um chatbot no WhatsApp utilizando o modelo LLaMA AI em um servidor local. Ele foi estruturado para ser modular e escalável, permitindo adaptações para diferentes contextos e empresas.
-Embora o Novo Atacarejo esbora esteja sendo usado como exemplo fictício para demonstração, as técnicas e ferramentas apresentadas podem ser aplicadas em qualquer negócio que busque automação de atendimento e suporte interno.
-Se você encontrou este guia útil ou tem sugestões de melhorias, sinta-se à vontade para contribuir!  🚀
+Este projeto foi desenvolvido como um exemplo prático de como implementar um chatbot no WhatsApp utilizando o modelo LLaMA AI em um servidor local. Ele foi estruturado para ser modular e escalável, permitindo adaptações para diferentes contextos e empresas que busquem automação de atendimento e suporte interno. Se você encontrou este guia útil ou tem sugestões de melhorias, sinta-se à vontade para contribuir!  🚀
 
 Contribuições: Caso tenha ideias ou melhorias para o projeto, abra um pull request ou envie sua sugestão por meio das issues no repositório.
-
 Agradeço a leitura e caso esteja pensando em realizar a implementação por esse guia, por favor entre em contado. :)
 
 Licença e Uso
