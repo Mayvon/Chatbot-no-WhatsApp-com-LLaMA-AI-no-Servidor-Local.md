@@ -19,7 +19,7 @@ Antes de começar, certifique-se de ter o seguinte:
 
 ## Como Utilizar Este Guia
 Ele está dividido em cinco passos principais. 
-1. Acesse cada arquivo na ordem apresentada aqui.
+1. Acesse cada arquivo na ordem apresentada abaixo.
 2. Certifique-se de seguir todos os passos de cada seção antes de avançar para a próxima.
 3. Teste regularmente cada etapa
 
