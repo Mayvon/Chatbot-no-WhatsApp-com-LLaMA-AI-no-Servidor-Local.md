@@ -24,6 +24,34 @@ Ele está dividido em cinco passos principais.
 3. Teste regularmente cada etapa
 
 
+                         +-------------------+
+                         | WhatsApp Messenger|
+                         +-------------------+
+                                   |
+                                   v
+                   +--------------------------------+
+                   |    WhatsApp Business API      |
+                   +--------------------------------+
+                                   |
+                                   v
+        +---------------------------------------------------+
+        |                 Backend (Servidor)               |
+        |  +-------------------+   +-------------------+   |
+        |  |   LLaMA AI Model  |   |   WhatsApp Handler |   |
+        |  +-------------------+   +-------------------+   |
+        |               |                     |            |
+        |               v                     v            |
+        |       +-------------------+   +----------------+ |
+        |       |   Text Processor  |   |    Database    | |
+        |       +-------------------+   +----------------+ |
+        +---------------------------------------------------+
+                                   |
+                                   v
+                       +-----------------------+
+                       |   User Interactions   |
+                       +-----------------------+
+
+
 ### [1. Pré-requisitos](./Pré-requisitos.md)
 Nesta seção, você encontrará tudo o que precisa saber para preparar o ambiente antes de começar, incluindo requisitos de hardware, software e configurações iniciais.
 
