@@ -25,9 +25,9 @@ Você pode usar **Conda** em conjunto com **Docker** quando precisar de:
 - **Escalabilidade em Produção**: Quando o projeto precisar ser escalado em ambientes de **nuvem** ou **microserviços**, o Docker será essencial para gerenciar múltiplos containers que trabalham juntos.
 
 
-Aqui está uma tabela em **Markdown** explicando a diferença entre **Conda** e **Docker**, e quando usar cada um deles:
+Aqui está uma tabela explicando a diferença entre **Conda** e **Docker**, e quando usar cada um deles:
 
-```markdown
+
 | **Aspecto**                  | **Conda**                                           | **Docker**                                           |
 |------------------------------|-----------------------------------------------------|------------------------------------------------------|
 | **Tipo de Isolamento**       | Isolamento de **ambientes virtuais** focado em pacotes Python e dependências de sistema. | Isolamento completo de **todo o ambiente**, incluindo sistema operacional, bibliotecas, e configurações. |
@@ -39,7 +39,7 @@ Aqui está uma tabela em **Markdown** explicando a diferença entre **Conda** e 
 | **Uso em Produção**          | Ideal para ambientes **localizados**, com versões específicas de pacotes. | Melhor para **produções escaláveis**, com ambientes consistentes e controlados em servidores e nuvem. |
 | **Quando Usar**              | Ideal para **desenvolvimento local** e para **gerenciar ambientes Python** em projetos de IA e ML. | Ideal para **isolamento completo de ambiente**, **portabilidade entre máquinas** e **escala** em ambientes de produção. |
 | **Exemplo de Uso**           | Criar um ambiente isolado com **LLaMA AI** e bibliotecas necessárias. | Usar para rodar **microserviços**, gerenciar **infraestrutura de nuvem**, ou mover o sistema entre diferentes ambientes. |
-```
+
 
 ### Explicação:
 
