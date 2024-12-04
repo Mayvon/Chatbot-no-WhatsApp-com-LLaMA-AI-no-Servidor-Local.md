@@ -1,4 +1,4 @@
-#### **Docker (Opcional, mas Recomendado)**
+#### **Docker (Opcional, mas Recomendado no comtexto de implementação robusta)**
 
 Usar Docker facilita a instalação de dependências e mantém o ambiente isolado. Para instalar:
 
