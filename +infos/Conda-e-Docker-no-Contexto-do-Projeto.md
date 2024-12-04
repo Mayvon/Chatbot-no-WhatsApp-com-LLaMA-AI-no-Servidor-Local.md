@@ -1,4 +1,4 @@
-##Comparativo Conda e Docker
+## Comparativo Conda e Docker
 
 O **Conda** oferece funcionalidades de isolamento de ambiente de maneira similar ao Docker, mas em um nível **mais focado nas dependências do Python** e das bibliotecas necessárias para rodar o código, como o modelo **LLaMA AI**. Aqui está uma explicação mais detalhada:
 
