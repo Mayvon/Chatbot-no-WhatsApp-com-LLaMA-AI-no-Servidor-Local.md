@@ -77,3 +77,5 @@
 
 Ambas as ferramentas têm suas vantagens, e sua escolha depende das necessidades específicas do projeto. Se você estiver em um ambiente Python puro, o **PIP** pode ser suficiente. Porém, se você precisa de um ambiente mais robusto com dependências de sistema, o **Conda** pode ser a escolha ideal.
 
+[####**Clique aqui para voltar**](https://github.com/Mayvon/Chatbot-no-WhatsApp-com-LLaMA-AI-no-Servidor-Local.md/blob/main/1.%20Pr%C3%A9-requisitos.md)
+
