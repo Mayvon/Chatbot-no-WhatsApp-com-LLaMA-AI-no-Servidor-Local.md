@@ -1,3 +1,5 @@
+## Comparativo PIP e Conda
+
 **PIP** e **Conda** são duas ferramentas populares para gerenciamento de pacotes em Python, mas elas têm diferenças significativas em relação à forma como funcionam e ao que gerenciam. Aqui está uma comparação entre as duas:
 
 ### **1. PIP**
@@ -75,6 +77,3 @@
 
 Ambas as ferramentas têm suas vantagens, e sua escolha depende das necessidades específicas do projeto. Se você estiver em um ambiente Python puro, o **PIP** pode ser suficiente. Porém, se você precisa de um ambiente mais robusto com dependências de sistema, o **Conda** pode ser a escolha ideal.
 
-**Conda** é a escolha mais indicada para o projeto de chatbot com **LLaMA AI**, pois ele fornece uma solução mais robusta e simplificada para gerenciar dependências complexas de sistemas e pacotes Python. Ele facilita a criação de ambientes isolados, garante que as dependências sejam resolvidas corretamente e cuida da configuração de bibliotecas críticas para o desempenho da IA, como CUDA e drivers de GPU. 
-
-Se você estiver lidando com a instalação e execução de modelos de IA em um servidor local, o **Conda** proporcionará maior estabilidade e eficiência ao longo do desenvolvimento e operação do chatbot.
