@@ -1,6 +1,6 @@
  # API Oficial do WhatsApp vs API Não-Oficial (Baileys)
 
-Abaixo, detalhamos as principais diferenças, vantagens e desvantagens entre a API Oficial do WhatsApp e a API Não-Oficial Baileys, com foco em usabilidade, legalidade, segurança e flexibilidade.
+Abaixo, estão detalhadas as principais diferenças, vantagens e desvantagens entre a API Oficial do WhatsApp e a API Não-Oficial Baileys, com foco em usabilidade, legalidade, segurança e flexibilidade.
 
 ## Tabela Comparativa
 
