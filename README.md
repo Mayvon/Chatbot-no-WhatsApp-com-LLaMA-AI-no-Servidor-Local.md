@@ -25,7 +25,7 @@ Ele está dividido em cinco passos principais.
 
 
 
-### [1. Pré-requisitos](./Pré-requisitos.md)
+### [1. Pré-requisitos](https://github.com/Mayvon/Chatbot-no-WhatsApp-com-LLaMA-AI-no-Servidor-Local.md/blob/main/1.%20Pr%C3%A9-requisitos.md)
 Nesta seção, você encontrará tudo o que precisa saber para preparar o ambiente antes de começar, incluindo requisitos de hardware, software e configurações iniciais.
 
 ### [2. Configuração do Ambiente Local](./Configuração%20do%20Ambiente%20Local.md)
